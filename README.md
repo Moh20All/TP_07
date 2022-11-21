@@ -19,3 +19,5 @@ This programm containes a menu For :
  8.Exit
  
  This list is directionnel 
+Check how to download file ;
+;)
